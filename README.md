@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Adarsh00700/LeetSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2469-convert-the-temperature](https://github.com/Adarsh00700/LeetSolutions/tree/master/2469-convert-the-temperature) |
 ## Array
 |  |
@@ -26,5 +27,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Adarsh00700/LeetSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh00700/LeetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
