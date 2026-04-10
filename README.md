@@ -38,5 +38,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Adarsh00700/LeetSolutions/tree/master/0338-counting-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1486-xor-operation-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Adarsh00700/LeetSolutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
