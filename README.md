@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Adarsh00700/LeetSolutions/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/Adarsh00700/LeetSolutions/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/Adarsh00700/LeetSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/Adarsh00700/LeetSolutions/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh00700/LeetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Adarsh00700/LeetSolutions/tree/master/0338-counting-bits) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Adarsh00700/LeetSolutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
