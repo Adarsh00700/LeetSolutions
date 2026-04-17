@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adarsh00700/LeetSolutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Adarsh00700/LeetSolutions/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/Adarsh00700/LeetSolutions/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh00700/LeetSolutions/tree/master/1021-remove-outermost-parentheses) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adarsh00700/LeetSolutions/tree/master/0013-roman-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh00700/LeetSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2469-convert-the-temperature](https://github.com/Adarsh00700/LeetSolutions/tree/master/2469-convert-the-temperature) |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Adarsh00700/LeetSolutions/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Adarsh00700/LeetSolutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
