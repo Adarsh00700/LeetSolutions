@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh00700/LeetSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2469-convert-the-temperature](https://github.com/Adarsh00700/LeetSolutions/tree/master/2469-convert-the-temperature) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Adarsh00700/LeetSolutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
