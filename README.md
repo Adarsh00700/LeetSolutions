@@ -33,18 +33,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Adarsh00700/LeetSolutions/tree/master/0035-search-insert-position) |
+| [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [1528-shuffle-string](https://github.com/Adarsh00700/LeetSolutions/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarsh00700/LeetSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh00700/LeetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh00700/LeetSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh00700/LeetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Adarsh00700/LeetSolutions/tree/master/0338-counting-bits) |
+| [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -63,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adarsh00700/LeetSolutions/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/Adarsh00700/LeetSolutions/tree/master/0771-jewels-and-stones) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
