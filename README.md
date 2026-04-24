@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adarsh00700/LeetSolutions/tree/master/0013-roman-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adarsh00700/LeetSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh00700/LeetSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2469-convert-the-temperature](https://github.com/Adarsh00700/LeetSolutions/tree/master/2469-convert-the-temperature) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/Adarsh00700/LeetSolutions/tree/master/0338-counting-bits) |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adarsh00700/LeetSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
