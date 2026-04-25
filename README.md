@@ -76,4 +76,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Adarsh00700/LeetSolutions/tree/master/0938-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Adarsh00700/LeetSolutions/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Adarsh00700/LeetSolutions/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Adarsh00700/LeetSolutions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
