@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Adarsh00700/LeetSolutions/tree/master/0035-search-insert-position) |
+| [0682-baseball-game](https://github.com/Adarsh00700/LeetSolutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [1528-shuffle-string](https://github.com/Adarsh00700/LeetSolutions/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarsh00700/LeetSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Adarsh00700/LeetSolutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh00700/LeetSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh00700/LeetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Adarsh00700/LeetSolutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh00700/LeetSolutions/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
 |  |
