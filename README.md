@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Adarsh00700/LeetSolutions/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/Adarsh00700/LeetSolutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Adarsh00700/LeetSolutions/tree/master/0771-jewels-and-stones) |
+| [0942-di-string-match](https://github.com/Adarsh00700/LeetSolutions/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh00700/LeetSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/Adarsh00700/LeetSolutions/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh00700/LeetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/Adarsh00700/LeetSolutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/Adarsh00700/LeetSolutions/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/Adarsh00700/LeetSolutions/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarsh00700/LeetSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh00700/LeetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarsh00700/LeetSolutions/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/Adarsh00700/LeetSolutions/tree/master/0942-di-string-match) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/Adarsh00700/LeetSolutions/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
