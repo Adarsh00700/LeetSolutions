@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh00700/LeetSolutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adarsh00700/LeetSolutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adarsh00700/LeetSolutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adarsh00700/LeetSolutions/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
