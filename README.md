@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adarsh00700/LeetSolutions/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Adarsh00700/LeetSolutions/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/Adarsh00700/LeetSolutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/Adarsh00700/LeetSolutions/tree/master/0942-di-string-match) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/Adarsh00700/LeetSolutions/tree/master/0506-relative-ranks) |
 ## Greedy
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Adarsh00700/LeetSolutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
