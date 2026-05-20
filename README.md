@@ -103,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh00700/LeetSolutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh00700/LeetSolutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh00700/LeetSolutions/tree/master/0938-range-sum-of-bst) |
 ## Sorting
 |  |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Adarsh00700/LeetSolutions/tree/master/0496-next-greater-element-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
