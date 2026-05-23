@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adarsh00700/LeetSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Adarsh00700/LeetSolutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Adarsh00700/LeetSolutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh00700/LeetSolutions/tree/master/1021-remove-outermost-parentheses) |
@@ -111,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adarsh00700/LeetSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh00700/LeetSolutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adarsh00700/LeetSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh00700/LeetSolutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adarsh00700/LeetSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh00700/LeetSolutions/tree/master/0938-range-sum-of-bst) |
 ## Sorting
 |  |
