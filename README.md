@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adarsh00700/LeetSolutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Adarsh00700/LeetSolutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Adarsh00700/LeetSolutions/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/Adarsh00700/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Adarsh00700/LeetSolutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Adarsh00700/LeetSolutions/tree/master/0771-jewels-and-stones) |
 | [0942-di-string-match](https://github.com/Adarsh00700/LeetSolutions/tree/master/0942-di-string-match) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Adarsh00700/LeetSolutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Adarsh00700/LeetSolutions/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Adarsh00700/LeetSolutions/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Adarsh00700/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Adarsh00700/LeetSolutions/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adarsh00700/LeetSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adarsh00700/LeetSolutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Adarsh00700/LeetSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Adarsh00700/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adarsh00700/LeetSolutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Adarsh00700/LeetSolutions/tree/master/0771-jewels-and-stones) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Adarsh00700/LeetSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Adarsh00700/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Adarsh00700/LeetSolutions/tree/master/0506-relative-ranks) |
 ## Greedy
 |  |
