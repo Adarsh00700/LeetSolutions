@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Adarsh00700/LeetSolutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adarsh00700/LeetSolutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Adarsh00700/LeetSolutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Adarsh00700/LeetSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adarsh00700/LeetSolutions/tree/master/0496-next-greater-element-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh00700/LeetSolutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Adarsh00700/LeetSolutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Adarsh00700/LeetSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adarsh00700/LeetSolutions/tree/master/0496-next-greater-element-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Adarsh00700/LeetSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Adarsh00700/LeetSolutions/tree/master/0506-relative-ranks) |
 ## Greedy
