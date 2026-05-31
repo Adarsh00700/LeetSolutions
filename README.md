@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Adarsh00700/LeetSolutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Adarsh00700/LeetSolutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Adarsh00700/LeetSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Adarsh00700/LeetSolutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Adarsh00700/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Adarsh00700/LeetSolutions/tree/master/0461-hamming-distance) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Adarsh00700/LeetSolutions/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/Adarsh00700/LeetSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adarsh00700/LeetSolutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Adarsh00700/LeetSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh00700/LeetSolutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adarsh00700/LeetSolutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Adarsh00700/LeetSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Adarsh00700/LeetSolutions/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh00700/LeetSolutions/tree/master/0938-range-sum-of-bst) |
 ## Sorting
