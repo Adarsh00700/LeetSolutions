@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Adarsh00700/LeetSolutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/Adarsh00700/LeetSolutions/tree/master/0942-di-string-match) |
+| [1122-relative-sort-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1122-relative-sort-array) |
 | [1528-shuffle-string](https://github.com/Adarsh00700/LeetSolutions/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarsh00700/LeetSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh00700/LeetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adarsh00700/LeetSolutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Adarsh00700/LeetSolutions/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Adarsh00700/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Adarsh00700/LeetSolutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Adarsh00700/LeetSolutions/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1122-relative-sort-array) |
 ## Greedy
 |  |
 | ------- |
@@ -188,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Adarsh00700/LeetSolutions/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
