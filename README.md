@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adarsh00700/LeetSolutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Adarsh00700/LeetSolutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Adarsh00700/LeetSolutions/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Adarsh00700/LeetSolutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Adarsh00700/LeetSolutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/Adarsh00700/LeetSolutions/tree/master/0942-di-string-match) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Adarsh00700/LeetSolutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Adarsh00700/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Adarsh00700/LeetSolutions/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/Adarsh00700/LeetSolutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adarsh00700/LeetSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1486-xor-operation-in-an-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Adarsh00700/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adarsh00700/LeetSolutions/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/Adarsh00700/LeetSolutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Adarsh00700/LeetSolutions/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1122-relative-sort-array) |
 ## Two Pointers
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Adarsh00700/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Adarsh00700/LeetSolutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Adarsh00700/LeetSolutions/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Adarsh00700/LeetSolutions/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1122-relative-sort-array) |
 ## Greedy
 |  |
