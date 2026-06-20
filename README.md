@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adarsh00700/LeetSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh00700/LeetSolutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2413-smallest-even-multiple](https://github.com/Adarsh00700/LeetSolutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Adarsh00700/LeetSolutions/tree/master/2469-convert-the-temperature) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Adarsh00700/LeetSolutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Adarsh00700/LeetSolutions/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1122-relative-sort-array) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Adarsh00700/LeetSolutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
