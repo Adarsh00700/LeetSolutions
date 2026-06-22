@@ -1,5 +1,12 @@
 class Solution {
   int numJewelsInStones(String jewels, String stones) {
-      return stones.split('').where(jewels.contains).length;
+    int count=0;
+    for(int i=0;i<stones.length;i++){
+
+        if(jewels.contains(stones[i])){
+            count++;
+        }
+    }
+    return count;
   }
 }
