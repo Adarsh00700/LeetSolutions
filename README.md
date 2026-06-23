@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Adarsh00700/LeetSolutions/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh00700/LeetSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/Adarsh00700/LeetSolutions/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adarsh00700/LeetSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh00700/LeetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Adarsh00700/LeetSolutions/tree/master/0942-di-string-match) |
 | [1122-relative-sort-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1122-relative-sort-array) |
 | [1528-shuffle-string](https://github.com/Adarsh00700/LeetSolutions/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adarsh00700/LeetSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Adarsh00700/LeetSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh00700/LeetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
