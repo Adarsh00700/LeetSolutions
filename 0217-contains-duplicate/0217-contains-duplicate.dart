@@ -1,6 +1,9 @@
 class Solution {
   bool containsDuplicate(List<int> nums) {
-    Set<int> _set = {...nums};
-    return nums.length > _set.length;
+    if (nums.toSet().toList().length != nums.length) {
+      return true;
+    } else {
+      return false;
+    }
   }
 }
