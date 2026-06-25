@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Adarsh00700/LeetSolutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/Adarsh00700/LeetSolutions/tree/master/0942-di-string-match) |
+| [1051-height-checker](https://github.com/Adarsh00700/LeetSolutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1122-relative-sort-array) |
 | [1528-shuffle-string](https://github.com/Adarsh00700/LeetSolutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adarsh00700/LeetSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Adarsh00700/LeetSolutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Adarsh00700/LeetSolutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Adarsh00700/LeetSolutions/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/Adarsh00700/LeetSolutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1122-relative-sort-array) |
 ## Greedy
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Adarsh00700/LeetSolutions/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Adarsh00700/LeetSolutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/1122-relative-sort-array) |
 ## Number Theory
 |  |
