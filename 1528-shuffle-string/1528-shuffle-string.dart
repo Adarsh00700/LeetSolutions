@@ -1,14 +1,11 @@
 class Solution {
-  String restoreString(String s, List<int> indices) {
-      print(s);
-      print(indices);
-      List<String> res = List.generate(indices.length, (int i) => '');
-      int i = 0;
-      for(int a in indices) {
-          res[a] = s[i];
-          i++;
-      }
+  String restoreString(String s, List<int>a) {
 
-      return res.join();
+    var splitted = s.split('');
+
+    for(var i=0;i<splitted.length;i++) {
+        splitted[a[i]] = s[i];
+    }
+    return splitted.join();
   }
 }
