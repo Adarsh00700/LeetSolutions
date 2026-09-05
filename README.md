@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adarsh00700/LeetSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh00700/LeetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Adarsh00700/LeetSolutions/tree/master/3110-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/Adarsh00700/LeetSolutions/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Adarsh00700/LeetSolutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarsh00700/LeetSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/Adarsh00700/LeetSolutions/tree/master/0942-di-string-match) |
+| [3794-reverse-string-prefix](https://github.com/Adarsh00700/LeetSolutions/tree/master/3794-reverse-string-prefix) |
 ## Matrix
 |  |
 | ------- |
