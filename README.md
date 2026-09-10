@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh00700/LeetSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Adarsh00700/LeetSolutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Adarsh00700/LeetSolutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adarsh00700/LeetSolutions/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Adarsh00700/LeetSolutions/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Adarsh00700/LeetSolutions/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/Adarsh00700/LeetSolutions/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adarsh00700/LeetSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Adarsh00700/LeetSolutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Adarsh00700/LeetSolutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Adarsh00700/LeetSolutions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Adarsh00700/LeetSolutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Adarsh00700/LeetSolutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Adarsh00700/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Adarsh00700/LeetSolutions/tree/master/0461-hamming-distance) |
