@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adarsh00700/LeetSolutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adarsh00700/LeetSolutions/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Adarsh00700/LeetSolutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Adarsh00700/LeetSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adarsh00700/LeetSolutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Adarsh00700/LeetSolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adarsh00700/LeetSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Adarsh00700/LeetSolutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Adarsh00700/LeetSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarsh00700/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Adarsh00700/LeetSolutions/tree/master/0389-find-the-difference) |
